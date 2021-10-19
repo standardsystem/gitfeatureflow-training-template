@@ -1,0 +1,2 @@
+# gitfeatureflow-training-template
+gitfeatureflow演習のためのテンプレートプロジェクトです。
